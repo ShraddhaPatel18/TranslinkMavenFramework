@@ -3,8 +3,10 @@ This repository contains an automated testing framework built using Maven. The f
 
 ## Prerequisites
 
-- Java JDK [14.0.2]
-- Maven [3.9.0]
+- Java JDK [7][JavaSE-1.7]
+- Maven [3.8.0]
+maven-resources-plugin: Version 3.0.2
+maven-compiler-plugin: Version 3.8.0
 
 ## Getting Started
 
